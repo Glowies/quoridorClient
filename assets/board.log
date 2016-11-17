@@ -1,0 +1,624 @@
+	Exporter version: 3.0.4, Blender version: 2.75 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of mesh:  Boardbase.098
+		processing begun of Standard material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  144
+		num indices        :  36
+	processing begun of mesh:  Boardbase.097
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  144
+		num indices        :  36
+	processing begun of mesh:  Boardbase.096
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  144
+		num indices        :  36
+	processing begun of mesh:  Boardbase.095
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  144
+		num indices        :  36
+	processing begun of mesh:  Boardbase.094
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.093
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.092
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.091
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.090
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.089
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.088
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.087
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.086
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.085
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.084
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.083
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.082
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.081
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.080
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.079
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.078
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.077
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.072
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.071
+		mesh is an instance of :  Boardbase.072.  Processing halted.
+	processing begun of mesh:  Boardbase.070
+		mesh is an instance of :  Boardbase.072.  Processing halted.
+	processing begun of mesh:  Boardbase.069
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.008
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.007
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.068
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.067
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.066
+		mesh is an instance of :  Boardbase.067.  Processing halted.
+	processing begun of mesh:  Boardbase.065
+		mesh is an instance of :  Boardbase.067.  Processing halted.
+	processing begun of mesh:  Boardbase.064
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.063
+		mesh is an instance of :  Boardbase.064.  Processing halted.
+	processing begun of mesh:  Boardbase.062
+		mesh is an instance of :  Boardbase.064.  Processing halted.
+	processing begun of mesh:  Boardbase.061
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.006
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.005
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.060
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.059
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.058
+		mesh is an instance of :  Boardbase.059.  Processing halted.
+	processing begun of mesh:  Boardbase.057
+		mesh is an instance of :  Boardbase.059.  Processing halted.
+	processing begun of mesh:  Boardbase.056
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.055
+		mesh is an instance of :  Boardbase.056.  Processing halted.
+	processing begun of mesh:  Boardbase.054
+		mesh is an instance of :  Boardbase.056.  Processing halted.
+	processing begun of mesh:  Boardbase.053
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.052
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.051
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.050
+		mesh is an instance of :  Boardbase.051.  Processing halted.
+	processing begun of mesh:  Boardbase.049
+		mesh is an instance of :  Boardbase.051.  Processing halted.
+	processing begun of mesh:  Boardbase.048
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.047
+		mesh is an instance of :  Boardbase.048.  Processing halted.
+	processing begun of mesh:  Boardbase.046
+		mesh is an instance of :  Boardbase.048.  Processing halted.
+	processing begun of mesh:  Boardbase.045
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.044
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.043
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.042
+		mesh is an instance of :  Boardbase.043.  Processing halted.
+	processing begun of mesh:  Boardbase.041
+		mesh is an instance of :  Boardbase.043.  Processing halted.
+	processing begun of mesh:  Boardbase.040
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.039
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.038
+		mesh is an instance of :  Boardbase.039.  Processing halted.
+	processing begun of mesh:  Boardbase.037
+		mesh is an instance of :  Boardbase.039.  Processing halted.
+	processing begun of mesh:  Boardbase.036
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.035
+		mesh is an instance of :  Boardbase.036.  Processing halted.
+	processing begun of mesh:  Boardbase.034
+		mesh is an instance of :  Boardbase.036.  Processing halted.
+	processing begun of mesh:  Boardbase.033
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.032
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.031
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.030
+		mesh is an instance of :  Boardbase.031.  Processing halted.
+	processing begun of mesh:  Boardbase.029
+		mesh is an instance of :  Boardbase.031.  Processing halted.
+	processing begun of mesh:  Boardbase.028
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.027
+		mesh is an instance of :  Boardbase.028.  Processing halted.
+	processing begun of mesh:  Boardbase.026
+		mesh is an instance of :  Boardbase.028.  Processing halted.
+	processing begun of mesh:  Boardbase.025
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.024
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.023
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.022
+		mesh is an instance of :  Boardbase.023.  Processing halted.
+	processing begun of mesh:  Boardbase.021
+		mesh is an instance of :  Boardbase.023.  Processing halted.
+	processing begun of mesh:  Boardbase.020
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.019
+		mesh is an instance of :  Boardbase.020.  Processing halted.
+	processing begun of mesh:  Boardbase.018
+		mesh is an instance of :  Boardbase.020.  Processing halted.
+	processing begun of mesh:  Boardbase.017
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.004
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.003
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.016
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.015
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.014
+		mesh is an instance of :  Boardbase.015.  Processing halted.
+	processing begun of mesh:  Boardbase.013
+		mesh is an instance of :  Boardbase.015.  Processing halted.
+	processing begun of mesh:  Boardbase.012
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.011
+		mesh is an instance of :  Boardbase.012.  Processing halted.
+	processing begun of mesh:  Boardbase.010
+		mesh is an instance of :  Boardbase.012.  Processing halted.
+	processing begun of mesh:  Boardbase.009
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.002
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center.001
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.008
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.007
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.006
+		mesh is an instance of :  Boardbase.007.  Processing halted.
+	processing begun of mesh:  Boardbase.001
+		mesh is an instance of :  Boardbase.007.  Processing halted.
+	processing begun of mesh:  Boardbase.005
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase.004
+		mesh is an instance of :  Boardbase.005.  Processing halted.
+	processing begun of mesh:  Boardbase.003
+		mesh is an instance of :  Boardbase.005.  Processing halted.
+	processing begun of mesh:  Boardbase.002
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Boardbase
+		processing begun of Standard material:  Material.002
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  center
+		registered as also a user of material:  Material.001
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.1071 secs
